@@ -34,7 +34,7 @@ To set up and run this project locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/movie-explorer-system.git
+   git clone https://github.com/JaitulGondaliya/Movie-Explorer-System.git
    ```
    (Replace `your-username` with your GitHub username and update the repo name as needed.)
 
